@@ -7,7 +7,7 @@ A different tap parser
 ## Install
 
 ```
-npm install tap-out --save
+npm install @randomgoods/tap-out --save
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ $ something-that-produces-tap | tap-out
 **API**
 
 ```js
-var tapOut = require('tap-out');
+var tapOut = require('@randomgoods/tap-out');
 
 var t = tapOut(function (output) {
 
