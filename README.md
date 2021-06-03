@@ -2,6 +2,8 @@
 
 A different tap parser
 
+> Forked from https://github.com/scottcorgan/tap-out
+
 ## Install
 
 ```
@@ -210,7 +212,11 @@ Generic output like `console.log()` in your tests.
 ## Run Tests
 
 ```
-git clone git@github.com:scottcorgan/tap-out.git && cd tap-out
+git clone git@github.com:randomgoods/tap-out.git && cd tap-out
 npm install
 npm test
 ```
+
+## License
+
+[MIT](https://github.com/randomgoods/tap-out/blob/master/LICENSE) (c) 2014 Scott Corgan, 2021 randomgoods and contributors
