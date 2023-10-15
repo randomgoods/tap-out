@@ -219,4 +219,4 @@ npm test
 
 ## License
 
-[MIT](https://github.com/randomgoods/tap-out/blob/master/LICENSE) (c) 2014 Scott Corgan, 2021 randomgoods and contributors
+[MIT](https://github.com/randomgoods/tap-out/blob/master/LICENSE) (c) 2014 Scott Corgan, 2021 - 2023 randomgoods and contributors
